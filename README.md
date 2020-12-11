@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ezrabro&show_icons=true&theme=dracula)](Ezrabro.github.io)
+[![Ezrabro's github stats](https://github-readme-stats.vercel.app/api?username=Ezrabro&show_icons=true&theme=dracula)](Ezrabro.github.io)
 
 
  🔭 I’m currently working on ...
